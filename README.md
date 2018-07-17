@@ -12,5 +12,5 @@ iPython Jupyter Notebook
 Python packages like NLTK, Panda, Seaborn, Scikit, Beautiful soup, etc.
 
 
- 
-
+### License
+Apache License 2.0
